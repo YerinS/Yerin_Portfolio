@@ -7,3 +7,12 @@ Personal project portfolio
 - Visualization with Seaborn
 
 ![](/images/heatmap.png)
+
+
+## [Project 2: Gender Classifier]
+
+- OpenCV with Python
+- Haar Cascades
+- (IMPORTANT) Insights and Lessons Learned
+
+![](images/gender_classifier.png)
