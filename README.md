@@ -9,8 +9,7 @@ Personal project portfolio
 ![](/images/heatmap.png)
 
 
-## [Project 2: Gender Classifier]
-
+## [Project 2: Gender Classifier](https://github.com/YerinS/Yerin_Portfolio/blob/main/Gender%20Classifier.ipynb)
 - OpenCV with Python
 - Haar Cascades
 - (IMPORTANT) Insights and Lessons Learned
