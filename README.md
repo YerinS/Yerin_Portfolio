@@ -15,3 +15,10 @@ Personal project portfolio
 - (IMPORTANT) Insights and Lessons Learned
 
 ![](images/gender_classifier.png)
+
+
+## [Project 3: Why don't people hit the subscribe button?](https://github.com/YerinS/Yerin_Portfolio/blob/main/YouTube_Subscribe.ipynb)
+- Data crawled from www.youtube-rank.com/
+- top 1000 YouTube channels in Korea
+
+![](/images/piechart.png)
