@@ -9,7 +9,7 @@ Personal project portfolio
 ![](/images/heatmap.png)
 
 
-## [Project 2: Gender Classifier](https://github.com/YerinS/Yerin_Portfolio/blob/main/Gender%20Classifier.ipynb)
+## [Project 2: Gender Classifier?](https://github.com/YerinS/Yerin_Portfolio/blob/main/Gender%20Classifier.ipynb)
 - OpenCV with Python
 - Haar Cascades
 - (IMPORTANT) Insights and Lessons Learned
@@ -22,3 +22,15 @@ Personal project portfolio
 - top 1000 YouTube channels in Korea
 
 ![](/images/piechart.png)
+
+
+## [Project 4: Play games, save the ocean!](https://github.com/YerinS/Yerin_Portfolio/blob/main/PyShooting/PyShooting)
+- Use arrow keys to move
+- Shoot with space bar
+- Press ctrl key to use special move
+- Catch trash: +100 score 
+- Catch fish: -100 score
+- Touch shark or miss 3 trash: Game Over
+- 1000 score: Game Clear
+
+![](/images/save_ocean.mp4)
