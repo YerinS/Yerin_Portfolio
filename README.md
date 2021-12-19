@@ -6,7 +6,7 @@ Personal project portfolio
 - Time period from Jan 2010 to Oct 2021
 - Visualization with Seaborn
 
-![](/images/heatmap.png)
+![](/images/covid_heatmap.png){: width="600"}
 
 
 ## [Project 2: Gender Classifier?](https://github.com/YerinS/Yerin_Portfolio/blob/main/Gender%20Classifier.ipynb)
