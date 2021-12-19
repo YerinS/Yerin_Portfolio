@@ -33,4 +33,4 @@ Personal project portfolio
 - Touch shark or miss 3 trash: Game Over
 - 1000 score: Game Clear
 
-![](/images/save_ocean.mp4)
+![](/images/save_the_ocean.gif)
