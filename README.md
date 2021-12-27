@@ -19,7 +19,7 @@ Personal project portfolio
 
 ## [Project 3: Why don't people hit the subscribe button?](https://github.com/YerinS/Yerin_Portfolio/blob/main/YouTube_Subscribe.ipynb)
 - Data crawled from www.youtube-rank.com/
-- top 1000 YouTube channels in Korea
+- Top 1000 YouTube channels in Korea
 
 ![](/images/piechart.png)
 
@@ -34,3 +34,12 @@ Personal project portfolio
 - 1000 score: Game Clear
 
 ![](/images/save_the_ocean.gif)
+
+
+## [Project 5: Why isn't there a Starbucks store near my place?](https://nbviewer.org/gist/YerinS/d42b39db574f5e05574d8523fc20c808)
+- Starbucks store data crawled from www.istarbucks.co.kr
+- Demographic data downloaded from https://data.seoul.go.kr
+- Map visualization with Folium
+
+![](/images/Starbucks_readme.png)
+
