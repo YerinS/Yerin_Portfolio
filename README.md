@@ -43,3 +43,4 @@ Personal project portfolio
 
 ![](/images/Starbucks_readme.png)
 
+## [Project 6: [ML Classification]Credit Card Fraud Detection](https://nbviewer.org/gist/YerinS/76e2926e0e21d41cfe561afcb4c7f334)
