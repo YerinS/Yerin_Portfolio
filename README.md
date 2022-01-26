@@ -44,7 +44,7 @@ Personal project portfolio
 ![](/images/Starbucks_readme.png)
 
 
-## [Project 6: [ML Classification] Credit Card Fraud Detection](https://nbviewer.org/gist/YerinS/76e2926e0e21d41cfe561afcb4c7f334)
+## [Project 6: [ML Classification] Credit Card Fraud Detection](https://nbviewer.org/github/YerinS/Yerin_Portfolio/blob/main/Classification_CreditCardFraud.ipynb)
 - Data downloaded from Kaggle
 - LightGBM algorithm using SMOTE
 - Accuracy: 0.9996, Precision: 0.9118, Recall: 0.8493
@@ -52,7 +52,7 @@ Personal project portfolio
 ![](/images/credit_card_fraud.png)
 
 
-## [Project 7: [ML Regression] House Sales Price Prediction](https://nbviewer.org/gist/YerinS/76e2926e0e21d41cfe561afcb4c7f334)
+## [Project 7: [ML Regression] House Sales Price Prediction](https://nbviewer.org/github/YerinS/Yerin_Portfolio/blob/main/Regression_HousePrice.ipynb)
 - Data downloaded from Kaggle
 - Stacked Ensemble XGBoost & LGBM
 - RMSE: 0.0984
