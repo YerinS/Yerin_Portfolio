@@ -5,7 +5,6 @@ Personal project portfolio
 - Data collected from Korea Tourism Organization
 - Time period from Jan 2010 to Oct 2021
 - Visualization with Seaborn
-
 ![](images/covid19_heatmap.png)
 
 
@@ -13,14 +12,12 @@ Personal project portfolio
 - OpenCV with Python
 - Haar Cascades
 - (IMPORTANT) Insights and Lessons Learned
-
 ![](images/gender_classifier.png)
 
 
 ## [Project 3: Why don't people hit the subscribe button?](https://github.com/YerinS/Yerin_Portfolio/blob/main/YouTube_Subscribe.ipynb)
 - Data crawled from www.youtube-rank.com/
 - Top 1000 YouTube channels in Korea
-
 ![](/images/piechart.png)
 
 
@@ -32,7 +29,6 @@ Personal project portfolio
 - Catch fish: -100 score
 - Touch shark or miss 3 trash: Game Over
 - 1000 score: Game Clear
-
 ![](/images/save_the_ocean.gif)
 
 
@@ -40,7 +36,19 @@ Personal project portfolio
 - Starbucks store data crawled from www.istarbucks.co.kr
 - Demographic data downloaded from https://data.seoul.go.kr
 - Map visualization with Folium
-
 ![](/images/Starbucks_readme.png)
 
-## [Project 6: [ML Classification]Credit Card Fraud Detection](https://nbviewer.org/gist/YerinS/76e2926e0e21d41cfe561afcb4c7f334)
+
+## [Project 6: [ML Classification] Credit Card Fraud Detection](https://nbviewer.org/gist/YerinS/76e2926e0e21d41cfe561afcb4c7f334)
+- Data downloaded from Kaggle
+- LightGBM algorithm using SMOTE
+- Accuracy: 0.9996, Precision: 0.9118, Recall: 0.8493
+![](/images/credit_card_fraud.png)
+
+
+## [Project 7: [ML Regression] House Sales Price Prediction](https://nbviewer.org/gist/YerinS/76e2926e0e21d41cfe561afcb4c7f334)
+- Data downloaded from Kaggle
+- Stacked Ensemble XGBoost & LGBM
+- RMSE: 0.0984
+![](/images/house_price.png)
+
