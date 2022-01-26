@@ -6,7 +6,7 @@ Personal project portfolio
 - Time period from Jan 2010 to Oct 2021
 - Visualization with Seaborn
 
-![](images/covid19_heatmap.png)
+![](tourism.png)
 
 
 ## [Project 2: Gender Classifier?](https://github.com/YerinS/Yerin_Portfolio/blob/main/Gender%20Classifier.ipynb)
@@ -65,6 +65,6 @@ Personal project portfolio
 - Reduce from 4-dimension to 2-dimension
 - Highest Average Accuracy: LDA(0.9533), NMF(0.9533)
 
-![](/images/Iris.png)
+![](/images/iris.png)
 
 
