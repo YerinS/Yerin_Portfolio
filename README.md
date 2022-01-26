@@ -59,3 +59,12 @@ Personal project portfolio
 
 ![](/images/house_price.png)
 
+
+## [Project 8: [ML Dimension Reduction] Iris Classification](https://nbviewer.org/github/YerinS/Yerin_Portfolio/blob/main/DimensionReduction_Iris.ipynb)
+- Data from Scikit-learn
+- Reduce from 4-dimension to 2-dimension
+- Highest Average Accuracy: LDA(0.9533), NMF(0.9533)
+
+![](/images/Iris.png)
+
+
