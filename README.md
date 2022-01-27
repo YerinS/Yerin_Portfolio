@@ -68,3 +68,11 @@ Personal project portfolio
 ![](/images/iris.png)
 
 
+## [Project 9: [ML Clustering] Online Retail Customer Segmentation](https://nbviewer.org/github/YerinS/Yerin_Portfolio/blob/main/Clustering_OnlineRetail.ipynb)
+- Data downloaded from UCI Machine Learning Repository
+- RFM Analysis
+- K-means Clustering Algorithm
+
+![](/images/online_retail.png)
+
+
