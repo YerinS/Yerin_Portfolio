@@ -76,3 +76,9 @@ Personal project portfolio
 ![](/images/online_retail.png)
 
 
+## [Project 10: [ML Text Analysis] Opinion Review Clustering](https://nbviewer.org/gist/YerinS/197a86970a0d723da7ed150fcd91d966)
+- Data downloaded from UCI Machine Learning Repository
+- TF-IDF(Term Frequency-Inverse Document Frequency) Vectorization
+- Word Cloud Visaulization
+
+![](/images/opinion_review.png)
