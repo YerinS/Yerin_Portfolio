@@ -37,7 +37,7 @@ Personal project portfolio
 
 
 ## [Project 5: Why isn't there a Starbucks store near my place?](https://nbviewer.org/gist/YerinS/d42b39db574f5e05574d8523fc20c808)
-- Starbucks store data crawled from www.istarbucks.co.kr
+- Data crawled from www.youtube-rank.com/
 - Demographic data downloaded from https://data.seoul.go.kr
 - Map visualization with Folium
 
@@ -82,3 +82,11 @@ Personal project portfolio
 - Word Cloud Visaulization
 
 ![](/images/opinion_review.png)
+
+
+## [Project 11: Why Is Samsung Smart TV Not For Me?](https://nbviewer.org/github/YerinS/Yerin_Portfolio/blob/main/SmartTV.ipynb)
+- Data crawled from https://shopping.naver.com/
+- Top 200 Smart TV models on 2nd FEB 2022
+- Visualization with Seaborn
+
+![](/images/SmartTV.png)
