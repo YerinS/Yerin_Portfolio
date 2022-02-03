@@ -84,7 +84,7 @@ Personal project portfolio
 ![](/images/opinion_review.png)
 
 
-## [Project 11: Why Is Samsung Smart TV Not For Me?](https://nbviewer.org/github/YerinS/Yerin_Portfolio/blob/main/SmartTV.ipynb)
+## [Project 11: Why Is Samsung Smart TV Not For Me?](https://github.com/YerinS/Yerin_Portfolio/blob/main/SmartTV.ipynb)
 - Data crawled from https://shopping.naver.com/
 - Top 200 Smart TV models on 2nd FEB 2022
 - Visualization with Seaborn
