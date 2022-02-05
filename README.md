@@ -37,7 +37,7 @@ Personal project portfolio
 
 
 ## [Project 5: Why isn't there a Starbucks store near my place?](https://nbviewer.org/gist/YerinS/d42b39db574f5e05574d8523fc20c808)
-- Data crawled from www.youtube-rank.com/
+- Data crawled from www.istarbucks.co.kr
 - Demographic data downloaded from https://data.seoul.go.kr
 - Map visualization with Folium
 
