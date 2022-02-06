@@ -92,7 +92,7 @@ Personal project portfolio
 ![](/images/SmartTV.png)
 
 
-## [Project 11: [DL Classification] School Level Classification](https://github.com/YerinS/Yerin_Portfolio/blob/main/DL_SchoolLevelClassification.ipynb)
+## [Project 12: [DL Classification] School Level Classification](https://github.com/YerinS/Yerin_Portfolio/blob/main/DL_SchoolLevelClassification.ipynb)
 - Data　　　　　　　medical checkup results of 9,682 students in Seoul
 - Features 　　　　　sex, height, weight
 - Labels　　　　 　　school level (elementary, middle, high)
