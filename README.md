@@ -90,3 +90,16 @@ Personal project portfolio
 - Visualization with Seaborn
 
 ![](/images/SmartTV.png)
+
+
+## [Project 11: [DL Classification] School Level Classification](https://github.com/YerinS/Yerin_Portfolio/blob/main/DL_SchoolLevelClassification.ipynb)
+- Data　　　　　　　medical checkup results of 9,682 students in Seoul
+- Features 　　　　　sex, height, weight
+- Labels　　　　 　　school level (elementary, middle, high)
+- Data Source 　 　　 Public Data Portal (https://www.data.go.kr)
+- DL Framework 　 　 Keras
+- Model Accuracy　　74.03%
+- Packages 　 　 　 　Pandas, NumPy, Matplotlib, TensorFlow v2.7.0
+
+![](/images/school_level.png)
+
