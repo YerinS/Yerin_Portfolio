@@ -96,10 +96,21 @@ Personal project portfolio
 - Data　　　　　　　medical checkup results of 9,682 students in Seoul
 - Features 　　　　　sex, height, weight
 - Labels　　　　 　　school level (elementary, middle, high)
+- Model Accuracy　　74.03%
 - Data Source 　 　　 Public Data Portal (https://www.data.go.kr)
 - DL Framework 　 　 Keras
-- Model Accuracy　　74.03%
-- Packages 　 　 　 　Pandas, NumPy, Matplotlib, TensorFlow v2.7.0
+- Packages 　 　 　 　Pandas, NumPy, Matplotlib, TensorFlow v2.7
 
 ![](/images/school_level.png)
 
+
+## [Project 13: [DL Regression] Weight Prediction](https://github.com/YerinS/Yerin_Portfolio/blob/main/DL_WeightPrediction.ipynb)
+- Data　　　　　　　body measurements of 167,980 soldiers in Korea
+- Features 　　　　　chest, arm, height, waist, inner leg, head, feet
+- Label　　　　 　　weight
+- Validation MAE　　 0.0260
+- Data Source 　 　　  Military Manpower Administration (https://open.mma.go.kr/caisGGGS/)
+- DL Framework 　 　 Keras
+- Packages 　 　 　 　Pandas, NumPy, Matplotlib, TensorFlow v2.7
+
+![](/images/soldier_weight.png)
