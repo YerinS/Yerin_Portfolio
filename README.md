@@ -107,7 +107,7 @@ Personal project portfolio
 ## [Project 13: [DL Regression] Weight Prediction](https://github.com/YerinS/Yerin_Portfolio/blob/main/DL_WeightPrediction.ipynb)
 - Data　　　　　　　body measurements of 167,980 soldiers in Korea
 - Features 　　　　　chest, arm, height, waist, inner leg, head, feet
-- Label　　　　 　　weight
+- Label　　　　 　　 weight
 - Validation MAE　　 0.0260
 - Data Source 　 　　  Military Manpower Administration (https://open.mma.go.kr/caisGGGS/)
 - DL Framework 　 　 Keras
