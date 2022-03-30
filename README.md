@@ -116,7 +116,7 @@ Personal project portfolio
 ![](/images/soldier_weight.png)
 
 
-## [Project 14: [DL CNN] Rock Paper Scissors](https://github.com/YerinS/Yerin_Portfolio/blob/main/DL_WeightPrediction.ipynb)
+## [Project 14: [DL CNN] Rock Paper Scissors](https://github.com/YerinS/Yerin_Portfolio/blob/main/DL_RockPaperScissors.ipynb)
 - Data　　　　　　　rock_paper_scissors dataset
 - Label　　　　 　　 rock, paper, scissors
 - Model Accuracy　　90.34%
