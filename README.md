@@ -114,3 +114,14 @@ Personal project portfolio
 - Packages 　 　 　 　Pandas, NumPy, Matplotlib, TensorFlow v2.7
 
 ![](/images/soldier_weight.png)
+
+
+## [Project 14: [DL CNN] Rock Paper Scissors](https://github.com/YerinS/Yerin_Portfolio/blob/main/DL_WeightPrediction.ipynb)
+- Data　　　　　　　rock_paper_scissors dataset
+- Label　　　　 　　 rock, paper, scissors
+- Model Accuracy　　90.34%
+- Data Source 　 　　  TensorFlow Datasets collection
+- DL Framework 　 　 Keras
+- Packages 　 　 　 　NumPy, Matplotlib, TensorFlow v2.7
+
+![](/images/rock_paper_scissors.png)
