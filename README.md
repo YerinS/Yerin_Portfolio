@@ -125,3 +125,12 @@ Personal project portfolio
 - Packages 　 　 　 　NumPy, Matplotlib, TensorFlow v2.7
 
 ![](/images/rock_paper_scissors.png)
+
+
+## [Project 15: [DL GAN] Handwritten Digits](https://github.com/YerinS/Yerin_Portfolio/blob/main/DL_GAN.ipynb)
+- Data　　　　　　　MNIST dataset
+- Data Source 　 　　  TensorFlow Datasets collection
+- DL Framework 　 　 Keras
+- Packages 　 　 　 　TensorFlow v2.7, NumPy, Matplotlib, IPython
+
+![](/images/dcgan.gif)
