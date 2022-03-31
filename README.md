@@ -145,3 +145,14 @@ Personal project portfolio
 - Packages 　 　 　 　TensorFlow v2.7, Pandas, NumPy, Matplotlib
 
 ![](/images/spam.png)
+
+
+## [Project 17: [DL LSTM] Apple Inc. Stock Price Prediction](https://github.com/YerinS/Yerin_Portfolio/blob/main/DL_AAPL.ipynb)
+- Data　　　　　　　historical data of APPLE INC. stock (AAPL)
+- Features 　　　　　date, open, high, low, close, adj close
+- Validation MSE　　 0.0035
+- Data Source 　 　　  Kaggle
+- DL Framework 　 　 Keras
+- Packages 　 　 　 　TensorFlow v2.7, NumPy, Matplotlib
+
+![](/images/aapl.png)
