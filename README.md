@@ -134,3 +134,14 @@ Personal project portfolio
 - Packages 　 　 　 　TensorFlow v2.7, NumPy, Matplotlib, IPython
 
 ![](/images/gan_digits.png)
+
+
+## [Project 16: [DL NLP] SMS Spam Detection](https://github.com/YerinS/Yerin_Portfolio/blob/main/DL_NLP.ipynb)
+- Data　　　　　　　5,574 SMS messages in English
+- Label　　　　 　　 ham(legitimate), spam
+- Model Accuracy　　99.28%
+- Data Source 　 　　  Kaggle
+- DL Framework 　 　 Keras
+- Packages 　 　 　 　TensorFlow v2.7, Pandas, NumPy, Matplotlib
+
+![](/images/spam.png)
