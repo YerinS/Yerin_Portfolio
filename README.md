@@ -133,4 +133,4 @@ Personal project portfolio
 - DL Framework 　 　 Keras
 - Packages 　 　 　 　TensorFlow v2.7, NumPy, Matplotlib, IPython
 
-![](/images/dcgan.gif)
+![](/images/gan_digits.png)
